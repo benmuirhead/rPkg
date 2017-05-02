@@ -2,7 +2,7 @@
 % Please edit documentation in R/packageLoad.r
 \name{packageLoad}
 \alias{packageLoad}
-\title{Package Load Function}
+\title{Package Load}
 \usage{
 packageLoad(package_list = "tictoc")
 }

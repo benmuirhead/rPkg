@@ -1,4 +1,4 @@
-#' Package Load Function
+#' Package Load
 #'
 #' This function accepts a string (or vector of strings) representing a package name. It checks to see if any of the packages are not installed and installs them. Then, it loads all the packages.
 #' @param package_list String or vector of strings. Defaults to "tictoc".
